@@ -1,0 +1,19 @@
+{
+  "name": "utiltoolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkk111/node-util-toolkit.git"
+  },
+  "author": "jkk111",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkk111/node-util-toolkit/issues"
+  },
+  "homepage": "https://github.com/jkk111/node-util-toolkit#readme"
+}
