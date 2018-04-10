@@ -1,6 +1,6 @@
 let { createServer } = require('net')
 let { spawn } = require('child_process')
-let { random_id } = require('../crypto');
+let { random_id } = require('../Crypto');
 let { get_socket } = require('../Network');
 
 // Interface for thread worker
